@@ -27,5 +27,5 @@ Développé avec la stack T3 (Next.js, tRPC, Prisma, Tailwind , shadcn) et une b
 
 ### Cloner le repo
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
+git clone https://github.com/Camus10737/Journal-Quotidien
+cd Journal-Quotidien
